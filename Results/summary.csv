@@ -1,0 +1,11 @@
+Case,Image,TrueNoise,DetectedNoise,Correct,Notches,SigmaEstimate,ImpulseFraction,NoisyPSNR,FixedPSNR,MeanPSNR,MedianPSNR,AdaptivePSNR,NoisySSIM,FixedSSIM,MeanSSIM,MedianSSIM,AdaptiveSSIM,ObjectsClean,ObjectsNoisy,ObjectsRestored
+1,cameraman.tif,Periodic,Periodic,1,2,0.0163,0.0001,19.86,30.39,19.49,19.42,34.25,0.431,0.925,0.327,0.354,0.944,11,14,11
+2,image02.png,Gaussian,Gaussian,1,0,0.0747,0.0000,22.14,21.63,23.54,28.08,29.15,0.233,0.227,0.723,0.548,0.757,2,2,2
+3,coins.png,Salt&Pepper,Salt&Pepper,1,0,0.0078,0.0252,18.17,18.18,25.49,33.91,38.73,0.342,0.338,0.688,0.961,0.988,10,10,10
+4,peppers.png,Periodic,Periodic,1,4,0.0073,0.0000,19.59,19.51,23.84,20.55,33.02,0.278,0.272,0.456,0.304,0.948,16,21,16
+5,image05.png,Speckle,Speckle,1,0,0.0623,0.0000,22.77,22.60,31.47,28.24,30.53,0.647,0.614,0.911,0.841,0.896,7,6,7
+6,image07.png,Periodic + Salt&Pepper,Periodic + Salt&Pepper,1,4,0.0207,0.0513,12.87,12.89,19.54,21.78,25.98,0.089,0.086,0.315,0.226,0.591,2,2,2
+7,pout.tif,Gaussian + Salt&Pepper,Gaussian + Salt&Pepper,1,0,0.0462,0.0146,19.95,19.97,31.98,30.18,33.51,0.192,0.187,0.805,0.661,0.855,11,29,12
+8,football.jpg,Periodic + Gaussian,Periodic + Gaussian,1,2,0.0995,0.0001,18.06,18.06,26.75,22.16,28.58,0.219,0.217,0.561,0.272,0.705,2,4,1
+9,image10.png,Periodic + Gaussian,Periodic + Gaussian,1,10,0.0531,0.0000,18.42,18.36,25.93,22.55,29.57,0.295,0.273,0.721,0.534,0.852,5,18,3
+10,onion.png,Periodic + Gaussian + Salt&Pepper,Periodic + Gaussian + Salt&Pepper,1,6,0.0626,0.0188,16.12,16.12,27.03,24.40,29.10,0.144,0.141,0.820,0.439,0.902,15,14,15
